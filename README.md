@@ -1,5 +1,10 @@
 # E-commerce Platform Analysis Project
 
+## Team Members 
+- Hussein Yasser
+- Abo El-Fadl Ramdan
+- Omar Abd El-Hamid
+
 ## Overview
 This project provides comprehensive analysis and documentation for an e-commerce platform, including:
 - Complete data dictionary and ER diagrams
