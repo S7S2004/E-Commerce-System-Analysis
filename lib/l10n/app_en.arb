@@ -1,0 +1,122 @@
+{
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  "emailval": "Please enter a valid email",
+  "@emailval": {
+    "description": "Email validation message"
+  },
+  "paswwordval": "Please enter a password",
+  "@paswwordval": {
+    "description": "Password validation message"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Text for registration link"
+  },
+  "createAccount": "Create Account",
+  "@createAccount": {
+    "description": "Create account button text"
+  },
+  "name": "Name",
+  "@name": {
+    "description": "Name field label"
+  },
+  "nameval": "Please enter your name",
+  "@nameval": {
+    "description": "Name validation message"
+  },
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Text for login link"
+  },
+  "todoList": "Todo List",
+  "@todoList": {
+    "description": "Todo list title"
+  },
+  "editTask": "Edit Task",
+  "@editTask": {
+    "description": "Edit task title"
+  },
+  "taskTitle": "Task Title",
+  "@taskTitle": {
+    "description": "Task title field label"
+  },
+  "titleval": "Please enter a title",
+  "@titleval": {
+    "description": "Title validation message"
+  },
+  "taskDescription": "Task Description",
+  "@taskDescription": {
+    "description": "Task description field label"
+  },
+  "descriptionval": "Please enter a description",
+  "@descriptionval": {
+    "description": "Description validation message"
+  },
+  "date": "Date",
+  "@date": {
+    "description": "Date field label"
+  },
+  "saveChanges": "Save Changes",
+  "@saveChanges": {
+    "description": "Save changes button text"
+  },
+  "taskEdited": "Task edited successfully",
+  "@taskEdited": {
+    "description": "Task edited success message"
+  },
+  "somethingError": "Something went wrong",
+  "@somethingError": {
+    "description": "Generic error message"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings title"
+  },
+  "state": "Theme",
+  "@state": {
+    "description": "Theme setting label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "addTask": "Add Task",
+  "@addTask": {
+    "description": "Add task title"
+  },
+  "submit": "Submit",
+  "@submit": {
+    "description": "Submit button text"
+  },
+  "taskAdded": "Task added successfully",
+  "@taskAdded": {
+    "description": "Task added success message"
+  },
+  "delte": "Delete",
+  "@delte": {
+    "description": "Delete button text"
+  },
+  "taskdeleted": "Task deleted successfully",
+  "@taskdeleted": {
+    "description": "Task deleted success message"
+  },
+  "isDone": "Done",
+  "@isDone": {
+    "description": "Task completion status"
+  }
+}
