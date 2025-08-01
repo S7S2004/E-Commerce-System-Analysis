@@ -31,6 +31,19 @@ Key Features:
 - **Backend**: Node.js/Django
 - **Database**: PostgreSQL
 - **Cloud**: AWS/Azure
+- **Firebase Services**: Authentication, Firestore, Storage, Analytics
 - **Payment**: Stripe/PayPal
 
 [View Full Documentation](/docs)
+
+## Firebase Integration
+
+For detailed Firebase configuration and limit management strategies, see our [Firebase Configuration Guide](Firebase-Configuration-Guide.md).
+
+### Quick Firebase Setup
+- Authentication for user management
+- Firestore for real-time data
+- Storage for media files
+- Analytics for user insights
+
+**Important**: Monitor Firebase usage limits to avoid service interruptions. See our guide for optimization strategies.
