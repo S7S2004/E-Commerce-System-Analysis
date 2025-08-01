@@ -13,12 +13,12 @@ This project provides comprehensive analysis and documentation for an e-commerce
 - Detailed use case specifications
 - System architecture and workflow documentation
 
-Key Features:
-- Multi-role system (Customer, Seller, Admin)
-- Shopping cart and order management
-- Payment gateway integration
-- Inventory tracking system
-- Customer support workflows
+### Flutter Todo Application
+A Flutter todo application has been added to demonstrate the e-commerce platform concepts in practice. The app includes:
+- Multi-language support with proper internationalization
+- Material Design 3 theming
+- Todo management functionality
+- Date formatting with intl package
 
 ## Business Goals
 - Create seamless online shopping experience
@@ -27,10 +27,29 @@ Key Features:
 - Enable multi-vendor marketplace functionality
 
 ## Technical Specifications
-- **Frontend**: React.js/Next.js
+- **Frontend**: React.js/Next.js (Analysis) + Flutter (Mobile App)
 - **Backend**: Node.js/Django
 - **Database**: PostgreSQL
 - **Cloud**: AWS/Azure
 - **Payment**: Stripe/PayPal
+
+## Flutter Development
+
+### Dependencies Resolution
+The Flutter app resolves the intl dependency conflict by:
+- Using `flutter_localizations` from SDK which provides `intl 0.20.2`
+- Removing explicit `intl` dependency to avoid version conflicts
+- This follows Flutter best practices for internationalization
+
+### Running the App
+```bash
+flutter pub get
+flutter run
+```
+
+### Testing
+```bash
+flutter test
+```
 
 [View Full Documentation](/docs)

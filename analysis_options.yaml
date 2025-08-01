@@ -1,0 +1,13 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional lint rules for better code quality
+linter:
+  rules:
+    # The lint rules applied to this project can be customized in the
+    # section below to disable rules from the `package:flutter_lints/flutter.yaml`
+    # included above or to enable additional rules. A list of all available lints
+    # and their documentation is published at
+    # https://dart.dev/tools/linter-rules
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_const_literals_to_create_immutables: true
